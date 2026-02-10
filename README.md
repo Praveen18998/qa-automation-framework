@@ -86,6 +86,17 @@ npm run report
 
 Update `playwright.config.ts` for test configuration and environment settings.
 
+## CI/CD Integration
+
+This project includes GitHub Actions workflow for automated testing on every push and pull request.
+
+## Test Coverage
+
+- Login functionality (valid/invalid credentials, locked users)
+- Product listing and display
+- Shopping cart operations
+- Cross-browser compatibility
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
